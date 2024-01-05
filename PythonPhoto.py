@@ -31,7 +31,7 @@ photo.photographs.photographs.imageSharpen("image.jpeg", "imageSharpen.jpg")
 
 #Convert JPG in PNG or PNG in JPG
 photo.photographs.photographs.imageJpgInPng("image.jpeg", "imageJpgInPng.png")
-#photo.photographs.photographs.imagePngInJpg("image.png", "imagePngInJpg")
+#photo.photographs.photographs.imagePngInJpg("image.png", "imagePngInJpg.jpg")
 
 #Image Black-White
 photo.photographs.photographs.imageBlackWhite("image1.jpeg")
