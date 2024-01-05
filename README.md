@@ -5,4 +5,3 @@ pip install Pillow opencv-python  pyscreenshot pyautogui
 
 
 ![PythonPhoto.png](https://drive.google.com/file/d/1MlNtm2wDVvD-cD1Ispw99tasw8wJvCoX/view?usp=drive_link)
-! [alt tag] (https://drive.google.com/file/d/1MlNtm2wDVvD-cD1Ispw99tasw8wJvCoX/view?usp=drive_link)
