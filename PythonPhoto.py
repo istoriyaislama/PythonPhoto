@@ -36,6 +36,15 @@ photo.photographs.photographs.imageJpgInPng("image.jpeg", "imageJpgInPng.png")
 #Image Black-White
 photo.photographs.photographs.imageBlackWhite("image1.jpeg")
 
+#Image Black-White Save
+photo.photographs.photographs.imageBlackWhiteSave("image1.jpeg", "out.png")
+
+#Edge Enhance
+photo.photographs.photographs.imageEdgeEnhance("image.jpeg", "out.png")
+
+#Edge Enhance More
+photo.photographs.photographs.imageEdgeEnhanceMore("image.jpeg", "out.png")
+
 #Screenshot#
 #Screenshot all ekran
 photo.screenshotImage.screenshotImage.screenshotalle("screenshot.png")
