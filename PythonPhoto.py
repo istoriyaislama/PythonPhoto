@@ -33,10 +33,10 @@ photo.photographs.photographs.imageSharpen("image.jpeg", "imageSharpen.jpg")
 photo.photographs.photographs.imageJpgInPng("image.jpeg", "imageJpgInPng.png")
 #photo.photographs.photographs.imagePngInJpg("image.png", "imagePngInJpg.jpg")
 
-#Image Black-White
+#Black-White
 photo.photographs.photographs.imageBlackWhite("image1.jpeg")
 
-#Image Black-White Save
+#Black-White Save
 photo.photographs.photographs.imageBlackWhiteSave("image1.jpeg", "out.png")
 
 #Edge Enhance
@@ -44,6 +44,9 @@ photo.photographs.photographs.imageEdgeEnhance("image.jpeg", "out.png")
 
 #Edge Enhance More
 photo.photographs.photographs.imageEdgeEnhanceMore("image.jpeg", "out.png")
+
+#Deateil
+photo.photographs.photographs.imageDeateil("image.jpg", "out.png")
 
 #Screenshot#
 #Screenshot all ekran
