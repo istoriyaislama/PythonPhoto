@@ -4,4 +4,4 @@ Python Photo's library has a photo with video and still take screenshots. Suppor
 pip install Pillow opencv-python  pyscreenshot pyautogui Numpy
 
 
-![PythonPhoto.png](image/PythonPhoto.png)
+![PythonPhoto.png](PythonPhoto.png)
