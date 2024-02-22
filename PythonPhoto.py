@@ -1,4 +1,4 @@
-from photo import photographs, screenshotImage, video
+from photo import photographs, screenshotImage, video, remove
 
 
 #Image#
@@ -61,3 +61,9 @@ screenshotImage.screenshotSize("PythonPhoto.png", 720, 720, 1280, 820)
 #Video#
 #Video
 video.video("PythonPhoto", 720, 720, 30.0, 'w')
+
+#Remove background
+#Remove
+inp = remove.fotoRemove("input.jpeg")
+inp.save("out.png")
+
